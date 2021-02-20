@@ -9,8 +9,8 @@
 - [アーティファクト一覧](artifact.txt)
 - モンスター一覧
   - [すべて](mon-desc.txt)
-  - [地上のみ](mon-desc-wildonly.txt)
-  - [地上](mon-desc-wildall.txt)
+  - [地上のみ出現](mon-desc-wildonly.txt)
+  - [地上にも出現](mon-desc-wildall.txt)
   - [街](mon-desc-town.txt)
   - [浅瀬](mon-desc-shore.txt)
   - [海](mon-desc-ocean.txt)
