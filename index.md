@@ -22,3 +22,5 @@
 - [モンスター進化](mon-evol.txt)
 - [モンスター詳細](mon-info.txt)
 - [オブジェクト一覧](obj-desc.txt)
+
+- [テストJSON](hoge.json)
