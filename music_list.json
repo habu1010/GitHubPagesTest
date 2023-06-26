@@ -1,0 +1,542 @@
+[
+    {
+        "file_path": "sound/quaff.wav",
+        "md5_hash": "8037e3c02cf64f9379f301614b8e2e31"
+    },
+    {
+        "file_path": "sound/shutdoor2.wav",
+        "md5_hash": "6f7eacf07910e10af9030eb311643d7f"
+    },
+    {
+        "file_path": "sound/sound.cfg",
+        "md5_hash": "07b6ab62547682539cb0832abe2cad34"
+    },
+    {
+        "file_path": "sound/se_maoudamashii_voice_monster01.wav",
+        "md5_hash": "b253c64cfcfdcc11e7c7c7f1febace58"
+    },
+    {
+        "file_path": "sound/n_kill.wav",
+        "md5_hash": "69bc2a052e3ac046f65273161d177c4e"
+    },
+    {
+        "file_path": "sound/readme.txt",
+        "md5_hash": "5844c6db1866c4b7cae59df30c2d5d14"
+    },
+    {
+        "file_path": "sound/critical.wav",
+        "md5_hash": "f49afec7f2e1007643a0ca7991e292bf"
+    },
+    {
+        "file_path": "sound/hungry2.wav",
+        "md5_hash": "6d92f0ca75c93d2195bfadc9e5b95de1"
+    },
+    {
+        "file_path": "sound/store1.wav",
+        "md5_hash": "a1c56e1d40407437eec33646b0c4833f"
+    },
+    {
+        "file_path": "sound/touch.wav",
+        "md5_hash": "728e48ff97ea8a7a4fca708759a0c182"
+    },
+    {
+        "file_path": "sound/down.wav",
+        "md5_hash": "b78c768b80dbccba2e9260e53edfa672"
+    },
+    {
+        "file_path": "sound/hitwall1.wav",
+        "md5_hash": "00f9328af661025e9d5d74e66972ab59"
+    },
+    {
+        "file_path": "sound/hitwall3.wav",
+        "md5_hash": "338329310c530980b95c9305fe3b09e6"
+    },
+    {
+        "file_path": "sound/sell.wav",
+        "md5_hash": "22e3ff11087d55bb8c3a3c05ecb463b4"
+    },
+    {
+        "file_path": "sound/hit2.wav",
+        "md5_hash": "ea08c07a900e295809d431012ac31f69"
+    },
+    {
+        "file_path": "sound/fall.wav",
+        "md5_hash": "ec1afa0a51efd4496a839cfb5bb96ade"
+    },
+    {
+        "file_path": "sound/wield.wav",
+        "md5_hash": "a071ee659204cbc8c7fc71277e7821ab"
+    },
+    {
+        "file_path": "sound/Makefile.am",
+        "md5_hash": "e5ccc2c5683eda10c98dd72da0dd6315"
+    },
+    {
+        "file_path": "sound/level.wav",
+        "md5_hash": "2d552ff01a0ad39f61d638b6658765ab"
+    },
+    {
+        "file_path": "sound/eat3.wav",
+        "md5_hash": "67aafa47aaf63efa5b7530c0381a312b"
+    },
+    {
+        "file_path": "sound/warn.wav",
+        "md5_hash": "bbc5af218839b158b14cd568f91d7c2a"
+    },
+    {
+        "file_path": "sound/claw.wav",
+        "md5_hash": "a61f3df5a8555d79edba89ac43dc0f9f"
+    },
+    {
+        "file_path": "sound/store2.wav",
+        "md5_hash": "46634805293638c8ba3df89b2d2c16d1"
+    },
+    {
+        "file_path": "sound/eat1.wav",
+        "md5_hash": "629a4cf5d89f4cb1fc0949390c7e2454"
+    },
+    {
+        "file_path": "sound/zap.wav",
+        "md5_hash": "55f25e2b8bcb889c409c446a1f1b874b"
+    },
+    {
+        "file_path": "sound/damage_over_time.wav",
+        "md5_hash": "cb140b71eb9fa097eed9165c15c8552c"
+    },
+    {
+        "file_path": "sound/tpother.wav",
+        "md5_hash": "cdcc5904a7fe066d523c2a2da8077833"
+    },
+    {
+        "file_path": "sound/shutdoor1.wav",
+        "md5_hash": "3acd28b26aa86bb2650f9fa2c0570f1f"
+    },
+    {
+        "file_path": "sound/se_maoudamashii_retro22.wav",
+        "md5_hash": "7c5ccbdc83b6cefab41cf8dde3121f62"
+    },
+    {
+        "file_path": "sound/stairway2.wav",
+        "md5_hash": "1bb0e3dcab7596b0851b7395d32903e0"
+    },
+    {
+        "file_path": "sound/sword-gesture3-r.wav",
+        "md5_hash": "9e06c0ec969c49d9a166fd93a5a3951b"
+    },
+    {
+        "file_path": "sound/enemy-advent1-r.wav",
+        "md5_hash": "9bfb17f11b4499d31e1c3ecb301af236"
+    },
+    {
+        "file_path": "sound/buy.wav",
+        "md5_hash": "8793b6d253bf31723017adbd730c69af"
+    },
+    {
+        "file_path": "sound/hit3.wav",
+        "md5_hash": "3085f8299749024beb0d0a928240f61c"
+    },
+    {
+        "file_path": "sound/summon.wav",
+        "md5_hash": "713d9538e75c0e82b4c377f01c37d6e1"
+    },
+    {
+        "file_path": "sound/scroll.wav",
+        "md5_hash": "9ca6b256ec11f3f64fc67a1727397b19"
+    },
+    {
+        "file_path": "sound/reflect.wav",
+        "md5_hash": "7f55af630da57a88e9b9d1e90b2dcabf"
+    },
+    {
+        "file_path": "sound/moan.wav",
+        "md5_hash": "1ac900bcb9f49c7a4f07d817df60b67f"
+    },
+    {
+        "file_path": "sound/miss1.wav",
+        "md5_hash": "117473f65c6341b68684a665a9f196b9"
+    },
+    {
+        "file_path": "sound/flee.wav",
+        "md5_hash": "1903582189e492d6f439cfdeea04b44d"
+    },
+    {
+        "file_path": "sound/explode.wav",
+        "md5_hash": "121b2f9f7ba3cc57d4b4e99766afc21e"
+    },
+    {
+        "file_path": "sound/stairway1.wav",
+        "md5_hash": "bb4811ad70dd047e3a6539d7d1d1bad8"
+    },
+    {
+        "file_path": "sound/opendoor3.wav",
+        "md5_hash": "b5c2329121d58157d2bae6f2b03b138f"
+    },
+    {
+        "file_path": "sound/drop1.wav",
+        "md5_hash": "9807692635a76ed09ac061428edf33b0"
+    },
+    {
+        "file_path": "sound/apple1-r.wav",
+        "md5_hash": "d3818cb4e433ddc433abf179151ce009"
+    },
+    {
+        "file_path": "sound/fail.wav",
+        "md5_hash": "456f354a6ae6388e7172344a90c95b9a"
+    },
+    {
+        "file_path": "sound/destitem.wav",
+        "md5_hash": "4766dc1b30a85b9d4d4bf3de37b47d22"
+    },
+    {
+        "file_path": "sound/slime.wav",
+        "md5_hash": "c9244abeba6d4fedfb7e3f17fab5ed09"
+    },
+    {
+        "file_path": "sound/decision25r.wav",
+        "md5_hash": "1edf111cffaf891b029aafeb38a6f6c6"
+    },
+    {
+        "file_path": "sound/sea-lion2-r.wav",
+        "md5_hash": "9be736d798acc63843d99d5a5e32a958"
+    },
+    {
+        "file_path": "sound/shoot_hit2.wav",
+        "md5_hash": "1fd0d891d15302841c4007e5ba9daf9e"
+    },
+    {
+        "file_path": "sound/se_maoudamashii_se_drink01.wav",
+        "md5_hash": "2f24002f0469d8c3f7adda78fdac5c54"
+    },
+    {
+        "file_path": "sound/hitwall2.wav",
+        "md5_hash": "8e69efd7775175918ff4efe96850cef5"
+    },
+    {
+        "file_path": "sound/bite.wav",
+        "md5_hash": "12ed1178a750d7370b2fbbaca743c49d"
+    },
+    {
+        "file_path": "sound/miss2.wav",
+        "md5_hash": "18e45003493e4408176b97972a5d4451"
+    },
+    {
+        "file_path": "sound/sword-slash3-r.wav",
+        "md5_hash": "84aa62da9e763f87b0bc1e0d1dde8e84"
+    },
+    {
+        "file_path": "sound/sting.wav",
+        "md5_hash": "635a8bee2331367104e1a3aefb83c743"
+    },
+    {
+        "file_path": "sound/study.wav",
+        "md5_hash": "14d1162acb4968dd4553b291c3577667"
+    },
+    {
+        "file_path": "sound/kill2.wav",
+        "md5_hash": "d9b8d95fd22a198ccb3ce34c6d1c0f43"
+    },
+    {
+        "file_path": "sound/evil.wav",
+        "md5_hash": "0d0ca3cda22e7a848e5bdd26a348e659"
+    },
+    {
+        "file_path": "sound/se_maoudamashii_battle07.wav",
+        "md5_hash": "2254c56813dfdf8d26bf730f5aaea3ac"
+    },
+    {
+        "file_path": "sound/kill1.wav",
+        "md5_hash": "4b209680089835d91559469d1f5efe44"
+    },
+    {
+        "file_path": "sound/opendoor2.wav",
+        "md5_hash": "2bdf1a4d6d4f972fbcbcd153e1fdb1dd"
+    },
+    {
+        "file_path": "sound/slash.wav",
+        "md5_hash": "a213834060578f51ddc9fb13b2871127"
+    },
+    {
+        "file_path": "sound/show.wav",
+        "md5_hash": "e3ae3077a713a05b3f4044e5cd3b521c"
+    },
+    {
+        "file_path": "sound/shutdoor3.wav",
+        "md5_hash": "35a45dac57d117c3d105c4e8da29f897"
+    },
+    {
+        "file_path": "sound/eat2.wav",
+        "md5_hash": "e7acc227bd606b13218d1d4d2ce3c058"
+    },
+    {
+        "file_path": "sound/shoot.wav",
+        "md5_hash": "b50322ca8b8a8cb7069ec18cc58dc60c"
+    },
+    {
+        "file_path": "sound/tplevel.wav",
+        "md5_hash": "17d0d8abe87aaabf8710207805c5b3f0"
+    },
+    {
+        "file_path": "sound/glass.wav",
+        "md5_hash": "85d543e32cdc1b7c12aca2996c75ac48"
+    },
+    {
+        "file_path": "sound/crush.wav",
+        "md5_hash": "07edebc504c14adbb8c04777ce06f80a"
+    },
+    {
+        "file_path": "sound/shoot_hit1.wav",
+        "md5_hash": "5b6ccc02141f1cd75fda7a1413fdc27d"
+    },
+    {
+        "file_path": "sound/pain.wav",
+        "md5_hash": "d02d519907378663eaf91b607038a787"
+    },
+    {
+        "file_path": "sound/terrain_damage.wav",
+        "md5_hash": "9faece3e8cc895f5a6a81ea616e6a9a2"
+    },
+    {
+        "file_path": "sound/sword-clash1-r.wav",
+        "md5_hash": "4ce7dee174dd28796ff745e3bdf180c1"
+    },
+    {
+        "file_path": "sound/opendoor1.wav",
+        "md5_hash": "1669f38643251590fac74757de8fd69a"
+    },
+    {
+        "file_path": "sound/breath.wav",
+        "md5_hash": "5aa7c280b79bedbb1b9e5ed070d44d7a"
+    },
+    {
+        "file_path": "sound/hungry1.wav",
+        "md5_hash": "8c8e5d4cad6572eb139826fd54a4f3e5"
+    },
+    {
+        "file_path": "sound/miss3.wav",
+        "md5_hash": "fb1fa4dea1aa4d7cc3984d17a279d967"
+    },
+    {
+        "file_path": "sound/wail.wav",
+        "md5_hash": "4d155f9fc37fc269583beee0a7f1bd94"
+    },
+    {
+        "file_path": "sound/teleport.wav",
+        "md5_hash": "7818501469cc981a55141d4a8840c92d"
+    },
+    {
+        "file_path": "sound/take_off.wav",
+        "md5_hash": "d904a34ec7de65265dd8fd76df5533be"
+    },
+    {
+        "file_path": "sound/drop2.wav",
+        "md5_hash": "9faab2f9fc24da0f4bf8098f2917a9f6"
+    },
+    {
+        "file_path": "sound/hit1.wav",
+        "md5_hash": "80e5909a9782a14e7c160bbf539e9970"
+    },
+    {
+        "file_path": "music/dun_med4.mp3",
+        "md5_hash": "922085681daa7f4cca0bf4126df19644"
+    },
+    {
+        "file_path": "music/ambush.mp3",
+        "md5_hash": "ad77efd43eb8a6c7e0b069f92d23967d"
+    },
+    {
+        "file_path": "music/gameover.mp3",
+        "md5_hash": "c061e99a1a071745a4dcb575161deee2"
+    },
+    {
+        "file_path": "music/field_low3.mp3",
+        "md5_hash": "ef16680bb1813413da7c637ed4309f28"
+    },
+    {
+        "file_path": "music/dun_med5.mp3",
+        "md5_hash": "09f97c5fda1e37c6f62c0f192ce08d46"
+    },
+    {
+        "file_path": "music/quest3.mp3",
+        "md5_hash": "db93af757a6c23408488ef5c197919a2"
+    },
+    {
+        "file_path": "music/new_game.mp3",
+        "md5_hash": "8324f772ba04b72fd5d07ff10ca52f4c"
+    },
+    {
+        "file_path": "music/readme.txt",
+        "md5_hash": "411861343228727a4ab625ee4f31d623"
+    },
+    {
+        "file_path": "music/dun_low3.mp3",
+        "md5_hash": "9bb983c7a241db9f1cf9b41017cf7d49"
+    },
+    {
+        "file_path": "music/The_Serpent_of_Chaos.mp3",
+        "md5_hash": "023b9d9047920b75129dc6010366f3cd"
+    },
+    {
+        "file_path": "music/dun_high4.mp3",
+        "md5_hash": "9260bf65b3360c966e6218e187607b50"
+    },
+    {
+        "file_path": "music/quest4.mp3",
+        "md5_hash": "e51e138504d26b82a5fde75d99d4f1e4"
+    },
+    {
+        "file_path": "music/town2.mp3",
+        "md5_hash": "12b26f997d08bd689316f10e673c14da"
+    },
+    {
+        "file_path": "music/town1.mp3",
+        "md5_hash": "1019cfd31c8686037f986d773d1c7bfe"
+    },
+    {
+        "file_path": "music/dun_low2.mp3",
+        "md5_hash": "2c2afc63f18c5d17b0d003677ebfd830"
+    },
+    {
+        "file_path": "music/Makefile.am",
+        "md5_hash": "8f469546b888ae1bbce931409fc66a66"
+    },
+    {
+        "file_path": "music/field_med3.mp3",
+        "md5_hash": "96cb39d435df2216adb4df5b459965ba"
+    },
+    {
+        "file_path": "music/exit.mp3",
+        "md5_hash": "850073e99c11fcad317040248ec3d949"
+    },
+    {
+        "file_path": "music/feel1.mp3",
+        "md5_hash": "e4ff0e7b9d071e3136ab53c524b0d072"
+    },
+    {
+        "file_path": "music/dun_high2.mp3",
+        "md5_hash": "a3065ed99674fea72c61650aa29886f0"
+    },
+    {
+        "file_path": "music/town3.mp3",
+        "md5_hash": "e367738c8a8922fa32d793889c9ed266"
+    },
+    {
+        "file_path": "music/music.cfg",
+        "md5_hash": "65cc0c92a694e5ee87877c850234e1e7"
+    },
+    {
+        "file_path": "music/arena.mp3",
+        "md5_hash": "0301948cc2a3b9fb4b6c94f6286b730a"
+    },
+    {
+        "file_path": "music/quest1.mp3",
+        "md5_hash": "f916e739b216f972cc2f5414cba17604"
+    },
+    {
+        "file_path": "music/quest_clear.mp3",
+        "md5_hash": "af6d460757375c85d46fcd28f0b24dec"
+    },
+    {
+        "file_path": "music/field_med1.mp3",
+        "md5_hash": "809cfc5d628ffa70347bc51e4887ced3"
+    },
+    {
+        "file_path": "music/dun_low5.mp3",
+        "md5_hash": "d16f0b717cf302fa1798cbcbd9b785aa"
+    },
+    {
+        "file_path": "music/dun_med3.mp3",
+        "md5_hash": "77e3dcfda49c3ee03d3cb187844c42ca"
+    },
+    {
+        "file_path": "music/dun_low4.mp3",
+        "md5_hash": "a2704823abe6c33b73e8c7e3dee1a5df"
+    },
+    {
+        "file_path": "music/delete.me",
+        "md5_hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file_path": "music/feel2.mp3",
+        "md5_hash": "d3c223f9a3901077a19395493954c9ce"
+    },
+    {
+        "file_path": "music/field_med2.mp3",
+        "md5_hash": "fae3315edb589089dbbf1507e227badd"
+    },
+    {
+        "file_path": "music/quest2.mp3",
+        "md5_hash": "ccdae3dd715f95d710b0dbdf8cf79b56"
+    },
+    {
+        "file_path": "music/dun_high1.mp3",
+        "md5_hash": "4517034288b9e81b4fd3013dbba5d2f8"
+    },
+    {
+        "file_path": "music/wild.mp3",
+        "md5_hash": "5304069026b4be313c845bedf2e80a4a"
+    },
+    {
+        "file_path": "music/build.mp3",
+        "md5_hash": "71fb5667fce8f1b3445967bb7c874f68"
+    },
+    {
+        "file_path": "music/town5.mp3",
+        "md5_hash": "d5d3c24eaa1b7a57d4051acbbfd0b8aa"
+    },
+    {
+        "file_path": "music/dun_high5.mp3",
+        "md5_hash": "cff08040bbe8c6a2e9e3a17e60df0ff9"
+    },
+    {
+        "file_path": "music/field_high1.mp3",
+        "md5_hash": "965311f6243cd0aabca9ddeecaa50fe2"
+    },
+    {
+        "file_path": "music/dun_med1.mp3",
+        "md5_hash": "b4da64df957cbc61838b1f4b4a2eaeb3"
+    },
+    {
+        "file_path": "music/dun_med2.mp3",
+        "md5_hash": "cfb753bd8d1c49b4af8c6ad73ae3ef9b"
+    },
+    {
+        "file_path": "music/dun_high3.mp3",
+        "md5_hash": "a1109e7ec6ee85a3b916339b6bad4c54"
+    },
+    {
+        "file_path": "music/field_low1.mp3",
+        "md5_hash": "85866df6a5d8c94e652c59549740dd59"
+    },
+    {
+        "file_path": "music/dun_low1.mp3",
+        "md5_hash": "14bff80590f15d4d5fdfac01c33eeaeb"
+    },
+    {
+        "file_path": "music/desktop.ini",
+        "md5_hash": "4334e5d20dd8fdcb2058f89daca82c85"
+    },
+    {
+        "file_path": "music/field_high2.mp3",
+        "md5_hash": "269bd0b1651c389054041a19197d5365"
+    },
+    {
+        "file_path": "music/town4.mp3",
+        "md5_hash": "b887997f0e21286269705c861d35d6a0"
+    },
+    {
+        "file_path": "music/field_high3.mp3",
+        "md5_hash": "ca1f7aaf634b880db298fee42e184042"
+    },
+    {
+        "file_path": "music/field_low2.mp3",
+        "md5_hash": "dc68f8c4d62dd8a0aea6eca2238f4cbc"
+    },
+    {
+        "file_path": "music/winner.mp3",
+        "md5_hash": "30116cafa8cd908bf9f8288065e26df9"
+    },
+    {
+        "file_path": "music/battle.mp3",
+        "md5_hash": "ceb7292b8e60f882f4a04ca1de448e19"
+    }
+]
